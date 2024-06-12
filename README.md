@@ -32,6 +32,6 @@
 
 ###
 <div align="center">
- <h3>⬇️⬇️⬇️ Scroll to view my projects ⬇️⬇️⬇️</h3> 
+ <h3>👇 Scroll to view my projects 👇</h3> 
 </div>
 
