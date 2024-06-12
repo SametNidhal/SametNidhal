@@ -24,7 +24,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm Mohamed Nidhal Samet a Software Engineer from Tunisia,<br><br>- 🔭 I’m working as a Guidewire Developer.<br>- 📚 I'm currently learning Devops Engineer.
+<p align="left">I'm Mohamed Nidhal Samet a Software Engineer from Tunisia,<br><br>- 🔭 I’m currently working as a Guidewire Developer.<br>- 📚 I'm passionate about learning DevOps engineering.
 
 ###
 <h3 align="left">Languages and Tools:</h3>
